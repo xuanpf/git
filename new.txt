@@ -1,6 +1,3 @@
 new
-<<<<<<< HEAD
 chongchong
-=======
 chongtu
->>>>>>> chongtu
